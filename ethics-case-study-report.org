@@ -1,0 +1,38 @@
+#+TITLE: Case-Study Analysis: New Leviathan's Violence Reduction Program
+
+As a citizen, you constantly trust and expect that your government is working in your best interest.
+When that trust is broken between a government and its people, there can be severe consequences ranging from protests to complete state collapse.
+Those working in the government must be prepared to take on the responsibility of maintaining this trust even in the most difficult situations.
+An example of when the government fails to maintain trust with its people when confronted with a difficult situation is the case of the American city New Leviathan and the decisions its mayor, Thalia Hobbes, made under the pressure of rising violent crime coupled with a declining city budget.
+
+Under complete secrecy, Mayor Hobbes resorted to contracting a consulting firm, Wales Consulting Group (WCG), to tackle New Leviathan's crime issues in an algorithmic, data-driven approach.
+WCG's initial approach was to identify potential victims of crimes and allocate community outreach and social services accordingly; however, after slow results, Mayor Hobbes opted to identify potential criminals and involve law enforcement to conduct interrogations, effectively turning the effort into a "predictive policing" program.
+Within months since law enforcement became involved with the program, news of the program was leaked and of course, the city's people were not happy.
+There were three concerns the people had with the program that were most notable: (1) lack of democratic process in the use of AI, (2) understanding the limits of the algorithmic models and their fallibility, and (3) conflict between human autonomy and determinism.
+
+First of all, the people were frustrated with the fact that the program was completely hidden from public view such that the public had no say on the decisions made regarding the program---the people were not even given a chance to review the system or approve of its deployment.
+As citizens of the United States, the people trust and expect the city would respect the democratic process of government that is expected everywhere else in the country, however, in this case, we clearly see that Mayor Hobbes failed to respect such processes as she did not consult any constituents at any stage when carrying out the new predictive policing program.
+Indeed, it is the responsibility of a democratic government to involve the people and all of its constituents in the decision-making regarding the use of AI going beyond private corporations.
+In a democratic government, people deserve to understand how decisions directly impacting their life are being made; so if the government intends to use AI in such a manner that it affects the lives of its people, then the people should have a voice and a means to deny or approve such use of AI.
+For example, consider the situation where you are going about your daily life and suddenly you get a call telling you that you are required to come to the local police station---you would very likely want to understand for what reason you were brought to the police station.
+If you were told that your behavior matched that of a potential criminal, then you would want to know how the police arrived at that conclusion, whether they have concrete evidence that you committed a crime or simply used an algorithm to predict the chances of you being a criminal.
+This example illustrates the need to involve all people and constituents in the decision-making regarding the use of AI, especially in the context of government decisions impacting people's lives.
+
+Secondly, the people were skeptical of the efficacy of the AI system and whether or not it could actually produce good results or if it was biased to certain types of people such as minorities or poor people.
+Even in the event that the people approve the use of AI, the people have a right to understand how the AI works and understand its performance and fallibility---this goes hand in hand with the people's trust in their government.
+All systems are subject to flaws, weaknesses, and limitations and AI systems are no exception.
+The special case about AI systems, however, is that it can be very difficult to identify their limitations depending on how complex the algorithm is---it is reasonable to assume that the algorithm is extremely complex in this case given the large scale of the problem and the large scale of the data.
+For example, an AI system might predict a poor, minority individual whose parents have a record for domestic violence to be a potential criminal, however fail to consider the individual's good reputation within the community.
+To the algorithm, the individual had all indicators pointing towards a potential criminal, however, to the community the individual was perceived as a good person.
+This example illustrates that AI systems are prone to failure because they may not have all of the relevant data needed to make a good prediction, especially in the case of data that cannot be directly measured, such as human emotion or relationships.
+As such, AI developers should be transparent about the data that is being used to train the algorithms and strive to make their models as simple and explainable as possible in an effort to make the limitations of their models clearer.
+
+Lastly, the people were philosophically opposed to the idea of having algorithms being used in any sort of crime reduction program, arguing that reducing individuals to numbers and probabilities attacks their fundamental human condition of autonomy and essentially treating human life as deterministic.
+When AI algorithms are involved in labeling specific citizens, it emphasizes the government's lack of respect for its citizens as humans and reduces them to mere probabilities, damaging the trust between the government and its citizens.
+What makes AI labeling different from typical human labeling is that when an AI labels a person, it makes the person feel trapped and unable to do anything to change that label.
+Contrast this to how humans naturally label each other.
+An individual may be labeled a certain way by their community, however that label is local to the community in which they reside---they have much more freedom in changing that label simply by leaving that community or doing things that will improve their reputation in the community.
+AI labeling feels much more universal and inescapable.
+After being labeled by AI, the individual will not know how to proceed going forward unless AI is able to provide an explanation for their label and actionable steps for the individual to take to remove the label.
+However, even if the AI is able to explain itself and/or given actionable steps for the individual to take, who is to judge whether or not its explanation or suggestions are ethically sound?
+It seems that the only way for the AI to be respectful of human autonomy is that it asks each individual for consent before labeling them.

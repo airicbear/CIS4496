@@ -1,0 +1,1078 @@
+#+TITLE: CIS4496 Readings
+
+* /The Power of Asking Pivotal Questions/ by Paul J.H. Schoemaker and Steven Krupp (December 16, 2014)
+
+#+begin_quote
+In a rapidly changing business landscape, executives need the ability to quickly spot both new opportunities and hidden risks.
+Asking the right questions can help you broaden your perspective --- and make smarter decisions.
+#+end_quote
+
+Good strategic thinking and decision making often require a shift in perspective --- particularly in environments characterized by significant uncertainty and change.
+What worked in the past simply may not apply in the future.
+Asking "what if" questions about the future may create discomfort, since answers are often not obvious.
+But asking such questions also forces you to step back and challenge current assumptions that prevent you from seeing breakthrough solutions.
+This article builds on our new book, /Winning the Long Game: How Strategic Leaders Shape the Future/, by focusing on the art of asking pivotal questions to improve strategic decision making.
+(See "About the Research.")
+By presenting six questions that challenge executives to incorporate broader perspectives, our aim is to stimulate out-of-the-box dialogues that help leaders make better choices and find innovative solutions sooner.
+
+** Are You Solving The Right Problem?
+
+Back in the 1960s, IBM Corp. had the opportunity to buy or license Xerox Corp.'s new reprographic photo process.
+IBM hired the consulting firm Arthur D. Little to answer a key question: If a more reliable, cheaper and faster process for photocopying were available, how many more copies would people make in a given year?
+Since copies in those days coulud only be made from an original specimen, ADL set out to estimate the number.
+Both companies framed the problem too narrowly as "copies from originals," ignoring a new segment of the market that turned out to be many times larger (namely, copies of copies of copies).
+This huge, overlooked opportunity could only have been foreseen if different questions had been posed.
+IBM might have owned this new revolutionary technology if the key question had been framed as "how might the new Xerox process change when and how people make copies, and what might this grow to in total number of copies made in future years?"
+
+The questions leaders pose sometimes get in the way of solving the right problem or seeing more innovative solutions.
+They are often too narrow, overly protective of the current business, or assume the old habits, business models and regulations will remain largely intact.
+At Google Inc., CEO Larry Page challenges leaders to anticipate the future better by not just asking what is or likely will be true, but what might be true, even if unexpected.
+The matter of "what is the right question" should be much more central when leaders tackle complex and important decisions, especially in an era of profound change.
+
+** Think Outside In
+
+*Question One: How well do you understand the implications of broad market trends and less visible undercurrents for your business and for upcoming strategic choices?*
+Entrepreneurs like Elon Musk from Tesla Motors, Steve Jobs from Apple and Jeff Bezos from Amazon became known for spotting unmet market needs and figuring out how to serve them profitably.
+The best entrepreneurs excel at peeking around the corner and seeing the future sooner.
+We've found that leaders can learn to anticipate better by simply being more curious, looking for superior information, conducting smarter analyses and developing broader touch points with those in the know.
+
+In an interview on CNN, Musk was asked where his forward-thinking, innovative ideas come from.
+He replied, "Just trying really hard --- the first order of business is to try. You must try until your brain hurts."
+Ever since he was in college in the early 1990s, Musk had a vision of commercializing electric vehicles for the mass market and was questioning how this could be achieved, given the historic pushback against this idea.
+He mused that getting into the electric car business was probably "one of the stupidest things you could do."
+(Even Toyota Motor Corp. chairman Takeshi Uchiyamada, known as the "father of the Prius," had reservations about electrics: "Because of its shortcomings --- driving range, cost and recharging time --- the electric vehicle is not a viable replacement for most conventional cars.")
+Musk saw electric vehicles as the future, but if their development was left to traditional car companies, he thought it would take a long time.
+
+In Musk's view, "the industry was operating under two false premises: One, that you could not create a compelling electric car; and two, that no one would buy it."
+The challenge was to demonstrate "that electric cars can be a mainstream product and to reassure consumers that infrastructure can be developed to give them the freedom and reliability of a regular car."
+Well before others, Musk saw the possibilties and asked different questions.
+Although this story is far from over, Musk's vision has struck a chord with consumers and Wall Street.
+He expanded his enterprise to include global distribution and battery manufacturing shortly after the Tesla Model S was rated the number one car ever tested by /Consumer Reports/ in 2013.
+
+*** The Challenge
+
+Strategic leaders are focused on the future and are masters at asking discerning questions and exploring ideas and options that are outside the mainstream.
+They are wary of status quo views and prefer honest, transparent questions that focus on how much, or how little, is really known about the issue at hand.
+Many studies emphasize the importance of strategic thinking and anticipation, while also lamenting the shortage of leaders who do this well.
+Those who miss the early signals often come late to the party when customer tastes are changing or when nontraditional competitors are preparing to disrupt or blindside them.
+
+To protect themselves, companies must keep an eye on innovations from both existing companies and startups.
+Some of the ideas could become game changers, and you may have to team up with the innovators, as a number of big pharmaceutical companies have done with biotech companies.
+
+*** Tips and Pointers
+
+1. *Learn from startups.*
+   What are they doing and why?
+   What do they see that you don't?
+   Examine their moves to detect market shifts and emerging opportunities from the outside in.
+
+2. *Go to conferences outside your function or industry.*
+   In its "Connect + Develop" innovation program, Procter & Gamble Co. reaches out to companies outside the consumer products industry to share lessons and explore joint challenges.
+   Follow events in other regions and sectors, even if they seem unrelated to your business at first.
+
+3. *Leverage current networks and join new ones.*
+   How might you engage your existing networks more systematically to stay on top of new developments?
+   Join interest groups in adjacent businesses or areas to expand your worldview and examine questions you don't typically consider.
+
+** Explore Future Scenarios
+
+*Question Two: How thorougly have you analyzed major external uncertainties and future scenarioes that could significantly impact your business decisions?*
+Leaders must not only understand the deeper trends but also the key uncertainties that can rock their world.
+One way to do this is through scenario planning and war gaming.
+For example, a pediatric hospital in the U.S. Midwest was grappling with rapid consolidation in its market.
+Larger hospitals focused mostly on adult patients and were actively looking to merge or to form strategic alliances.
+In anticipation, the CEO of the pediatric hospital engaged his board in a simulation, presenting them with a hypothetical scenario: a merger between two particular adult-patient hospitals.
+He asked board members to identify potential alliance partners, decide on an action relative to competitors and assess their hospital's readiness to execute the plan.
+
+Then, the CEO introduced a second scenario: a disruptive technology coupled with onerous new legislation.
+The exercise spurred new questions and helped the CEO crystallize a plan.
+The CEO determined that, if certain adult hospitals merged, the competing pediatric hospital would likely want to merge as well.
+Shortly thereafter, when two adult hospitals in the region announced a major consolidation, the CEO and his board were prepared to act.
+They proposed a partnering arrangement to the other pediatric hospital and were able to stay ahead of the curve.
+
+*** The Challenge
+
+Developing different views of how the external environment may change allows leaders to better determine whether the organization has sufficient strategic flexibility to succeed.
+Scenarios can pick up early indicators about how emerging technologies or social trends might disrupt your current business model, how customers' preferences may change or why new regulations could alter your industry.
+Asking what could happen in the future involves imagination and curiosity.
+It pays, for example, to ponder how and where a well-armed rival could attack your business.
+
+Even though good tools exist to raise important questions about future uncertainties, time-pressured executives occupied with putting out fires or exploiting short-term gains aren't always receptive to them.
+For example, for several years leading up to the U.S. subprime mortgage crisis that began in 2007, the investment community overlooked or largely ignored the possibility that the subprime mortgage boom might go bust.
+In a congressional hearing in the fall of 2008, Standard & Poor's president Deven Sharma claimed, "Virtually no one --- be they homeowners, financial institutions, rating agencies, regulators, or investory --- anticipated what is occurring."
+Yet leading economists, including Paul Krugman and Robert Shiller, and savvy investors, such as Steve Eisman and John Paulson, had been sounding the alarm.
+The intriguing question is not why top executives at large rating agencies failed to acknowledge the elephant in the room but why some investors and analysts spottedd the elephant sooner than others.
+
+*** Tips and Pointers
+
+1. *Identify weak signals at the boundaries of your business.*
+   Strategic leaders ask questions about the external business environment that have far-reaching implications and then ask team members to scout the periphery for emerging trends.
+
+2. *Conduct war games to assess the perspectives of competitors and stakeholders.*
+   Gauge their likely reactions to novel opportunities or threats.
+
+3. *Analyze rivals, especially nontraditional ones, and examine which of their moves puzzle you --- and why.*
+
+** Be a Contrarian
+
+*Question Three: Do you regularly seek out diverse views to see multiple sides of complex issues, and do you purposely explore important problems from several angles?*
+A persistent problem for many teams is promoting diverse thinking and creative friction.
+Leaders must always ask if the team has sought sufficient contrarian input and been exposed to all sides of an issue before reaching a decision.
+This can counter the tendency of many team members to go along to get along.
+Offering contrarian views is particularly essential when tackling major strategic decisions in an uncertain environment.
+
+To promote diverse thought, Hala Moddelmog, former president of Atlanta, Georgia-based Arby's Restaurant Group Inc., a fast-food chain with about 3,400 locations, surrounded herself with colleagues of different races, geographies, socioeconomic classes and personality styles.
+"You really don't need another you," she said.
+Staying open to different viewpoints helps ensure leaders are not unduly hindered by decision traps and can instead open their eyes to information or solutions that they may not have previously considered.
+
+Research shows that creative tension promotes better idea generation and group problem solving.
+Constructive dissent and debate encourages people to reexamine current assumptions to make room for creative thinking.
+John Lasseter, chief creative officer at Pixar, Walt Disney Animation Studios and DisneyToon Studios, has practiced a powerful form of team challenge.
+Each morning at Pixar, the team working on a movie would review their previous day's output and explore how to improve.
+They were asked to provide tough questions, offer honest critique and put alternatives on the table.
+This practice was based on the belief that team decisions were superior to any individual's, but only if you pushed people out of their comfort zones.
+Some team members had to get used to being challenged and critiqued, but most came to see how the product and decision improved.
+
+Author Malcolm Gladwell has noted that the best entrepreneurs and innovators are usually quite disagreeable --- they love debate.
+He has gone so far as to argue recently that an important role of senior management in "creating an atmosphere of innovation is allowing people to be disagreeable."
+This echoes an idea philosopher John Dewey presented in 1922: "Conflict is the gadfly of thought. It stirs us to observation and memory. It instigates to invention. It shocks us out of sheep-like passivity, and sets us at noting and contriving. ... Conflict is a sine qua non of reflection and ingenuity."
+
+*** The Challenge
+
+The opposite of using questions to promote divergent thinking is to coalesce around shared viewpoints or succumb to /groupthink/.
+Amazon's Jeff Bezos decries "social cohesion" as the "cloying tendency of people who like to agree with each other and find consensus comfortable."
+In response, he says he tries to create a culture at Amazon where leaders challenge decisions they disagree with, "even when doing so is uncomfortable or exhausting."
+
+Bezos isn't the first business leader to value dissent.
+As chairman of General Motors Corp., Alfred P. Sloan Jr. told senior executives at the end of a board meeting, "I take it we are all in complete agreement on the decision here. ... Then I propose we postpone further discussion of this matter until our next meeting to give ourselves time to develop disagreement and perhaps gain some understanding of what the decision is all about."
+Of course, how conflict is handled differs strongly by culture.
+Finding the right balance between encouraging people to express diverse views and not offending others requires cultural sensitivity, especially in multinational settings.
+The benefits of frank debate can dissipate quickly if they trigger resentment or backstabbing.
+
+*** Tips and Pointers
+
+1. *Foster constructive debate in meetings.*
+   Help leaders and team members to get used to a more candid dialogue with creative friction about ideas.
+
+2. *Keep teams small.*
+   Amazon forms task forces of just five to seven people, which makes it easier to test ideas and guard against groupthink.
+
+3. *Push back when consensus forms too quickly.*
+   Insist on alternatives.
+   Like GM's Sloan, challenge teams if they agree too fast on a complex issue, and ask them to reflect more deeply and develop constructive disagreement.
+
+4. *Use devil's advocates.*
+   Before meetings, ask someone to prepare the case against the prevailing view, and rotate this role.
+   Train people to question the status quo and get them to appreciate the benefits of such questioning.
+
+** Look for Patterns
+
+*Question Four: Do you deploy multiple lenses to connect dots from diverse sources and stakeholders, and do you delve deep to see important connections that others miss?*
+As the then-CEO of DuPont, Charles O. Holliday Jr. picked up several weak signals in the fall of 2008 that helped him prepare his company for the deep recession that followed.
+While visiting a major Japanese customer, Holliday learned that the CEO had instructed his staff to conserve cash, an indication that the company was seeing or expecting a decline in profitability.
+That got Holliday's attention, both in terms of the potential for weaker economic conditions and specific fears about DuPont's own cash position.
+Upon his return, Holliday sought to get a fix on DuPont's financial resilience.
+The leadership team found that the initial signs of weakness were spreading to the broader economy and beginning to affect DuPont's business across the board.
+
+But how big a problem would it be?
+Holliday learned that reservations at the Hotel du Pont, located near the company's Wilmington, Delaware, headquarters, had dropped 30% in 10 days, which was highly unusual for the end of the year.
+He also discovered that many corporate lawyers were settling disputes rather than exposing clients to the financial uncertainty of a trial.
+And several U.S. automakers, huge DuPont paint customers, were scaling back on production schedules.
+Holliday wanted to know why.
+The answer wasn't complicated: Orders for new cars were dropping as the number of U.S. mortgage foreclosures increased, and the economy was going downhill.
+
+*** The Challenge
+
+What was impressive about Holliday was his ability to amplify discrete data points, connect them and take decisive action.
+Combining seasoned intuition with vigilant questions, Holliday figured out that his company was about to hit a wall.
+To test his fears, he engaged his team and asked for candid feedback.
+His team put a plan in place so DuPont would be ready if financial market hits rock bottom.
+
+Leaders are often limited by selective perception and seek information that confirms what they wish to believe.
+Unlike Holliday, most don't ask tough questions because they filter out weak signals that don't fit their mental models.
+When faced with complex issues and conflicting information, it is easy to fool yourself: If you torture the data hard enough, it will confess to almost anything!
+At Eastman Kodak Co., for example, leaders failed to ask the right questions soon enough to fully understand and act effectively on the signs that photography was rapidly moing to digital.
+This misperception reflected middle management's belief that digital technology was inferior to film and top executives' belief that the demands of Kodak's shareholders mattered more than those of its consumers and engineers.
+These flawed assumptions allowed Kodak to continue deluding itself about the urgency for change for much too long.
+
+*** Tips and Pointers
+
+1. *Look for competing explanations to challenge your observations.*
+   Engage a wide range of stakeholders, customers and strategic partners to weigh in.
+
+2. *When stuck trying to recognize patterns or interpret complex data, step away, get some distance and then try again.*
+   Sleep on the data, since the mind continues to process information when resting.
+   Each time DuPont's Holliday took a break, and then reengaged, he got a deeper understanding and asked better questions.
+
+3. *Use visual graphs or flowcharts to juxtapose the larger picture with the individual puzzle pieces.*
+   Pattern recognition is easier when all the information is clearly laid out and presented in different ways.
+   Try to leverage the power of visual thinking.
+
+** Create New Options
+
+*Question Five: Do you generate and evaluate multiple options when making a strategic decision, and do you consider the risks of each, including unintended consequences?*
+It may seem obvious that leaders should examine multiple options before making a big decision.
+Yet in the heat of the battle, few leaders actually engage in creative options thinking.
+A common refrain is: "We don't have time, we've got to move."
+Research shows that when people feel pressed for time, they become less flexible and will much prefer certainty to ambiguity.
+/Ambiguity aversion/ is typically heightened in crisis situations and can lead to cognitive mypoia, a narrow focus that can be counterproductive.
+Weathering storms, real or metaphorical, requires strategic leaders to counter this ambiguity aversion.
+Asking good questions about alternatives or unintended consequences, even if done quickly in a crunch, will provide a wider-angle lens to include the less obvious and potentially more strategic course of action.
+
+When a devastating storm hit the annual Sydney to Hobart Yacht Race in Australia in 1998, nearly all of the more than 100 yachts that started the race were either trying to outrun the storm or heading directly for the shore.
+A notable exception was the crew of AFR Midnight Rambler.
+They asked a critical question in the midst of the life-threatening storm: Are there other options?
+Rather than getting ahead of the storm or racing to shore, the Midnight Rambler saw a third possibility: sailing directly /into/ the storm.
+Although it was a nonconventional choice, the Midnight Rambler crew concluded that it would be the safest and the fastest option.
+They also believed that they had the skill to execute this bold plan.
+The Midnight Rambler not only survived traumatic moments; it won the race.
+Many boats were capsized and destroyed, few finished and six sailors tragically died.
+The Midnight Rambler had the smallest boat and the fewest resources.
+But its crew was the only one to ask a crucial question in the face of the storm: Are there creative options?
+
+*** The Challenge
+
+Major disruptions, such as the appearance of new or unexpected competitors, often lead to quick action with little reflection--akin to the fight-or-flight response of animals.
+When we are under the gun, we frequently cut corners.
+This makes us prone to the traps of narrow focus and inside-out thinking that limit choices.
+We rely too much on ourselves or on an inner circle.
+This can blind us to possibilities that reflect outside perspectives and potential consequences for customers or external stakeholders.
+
+In 2011, Netflix Inc., which had been very successful with its DVD rental-by-mail model, added a second delivery system based on Web downloading.
+To be competitive, CEO Reed Hastings decided to unbundle the streaming service from the traditional model and offer it at a lower price.
+However, the combined fee for both subscriptions ended up being 60% higher than the original service.
+This infuriated consumers.
+In the following year, Netflix lost 800,000 customers, and its stock price fell 65%.
+By not asking the right questions, Netflix failed to fully explore options that might be more flexible and user-friendly.
+Although Hastings quickly owned up to the mistake and publicly apologized, the episode caused a lot of grief for both customers and the company.
+
+*** Tips and Pointers
+
+1. *Rather than presenting binary go/no-go decisions, reframe a situation to always examine several more options.*
+   Always ask, "What else might we do?"
+
+2. *Use impromptu meetings when time is limited to generate more options, including unconventional choices.*
+   The Midgnight Rambler crew did this during a major crisis.
+
+3. *Review alternatives based on clear criteria and rank options accordingly.*
+   Clearly define decision criteria, make them explicit, weigh them and then score each option against the criteria to identify the best choice.
+   Be disciplined when it comes to making tough trade-offs.
+
+** Learn from Failure
+
+*Question Six: Do you encourage experiments and "failing fast" as a source of innovation and quick learning?*
+David Ogilvy, the advertising genius, purposely ran ads that he and his team did not believe would work as a way to test their own theories about advertising.
+One of the experiments they tried was the famous Hathaway shirt advertisement featuring a man with an eye patch.
+This version of the ad (there were 17 others) was an impromptu experiment whose success took Oglivy by surprise.
+The ad, in fact, was a brilliant success, ran for a long time and received several industry prizes.
+
+Biologist Max Delbrück, who received a Nobel Prize in 1969, believed in "the principle of limited sloppiness."
+He advised his students to be sloppy enough in their lab experiments to allow for the unexpected, but not so sloppy that they could not identify the reasons for their anomalous results.
+Case in point: the eccentric Scottish scientist, Sir Alexander Fleming, who received a Noble Prize in 1945.
+His peers considered him brilliant but somewhat sloppy.
+In 1928, after a long summer holiday, Fleming returned to his lab and began gathering up the contaminated petri dishes for a good scrubbing.
+Suddenly, he noticed something different about one of them: There was a halo where a blue-green mold appeared to have dissolved the bacteria.
+Many biologists might have missed the small irregularities, but Fleming knew bacterial growths as an artist knows the color spectrum;
+
+*** The Challenge
+
+*** Tips and Pointers
+
+** Start With Questions --- Not Answers
+
+* /Relearning the Art of Asking Questions/ by Tom Pohlmann and Neethi Mary Thomas (March 27, 2015)
+
+Proper questioning has become a lost art.
+The curious four-year-old asks a lot of questions --- incessant streams of "Why?" and "Why not?" might sound familiar --- but as we grow older, our questioning decreases.
+In a recent poll of more than 200 of our clients, we found that those with children estimated that 70-80% of their kids' dialogues with others were comprised of questions.
+But those same clients said that only 15-25% of their own interactions consisted of questions.
+Why the drop off?
+
+Think back to your time growing up and in school.
+Chances are you received the most recognition or reward when you got the correct answers.
+Later in life, that incentive continues.
+At work, we often reward those who answer questions, not those who ask them.
+Questioning conventional wisdom can even lead to being sidelined, isolated, or considered a threat.
+
+Because expectations for decision-making have gone from "get it done soon" to "get it done now" to "it should have been done yesterday," we tend to jump to conclusions instead of asking more questions.
+And the unfortunate side effect of not asking enough questions is poor-decision making.
+That's why it's imperative that we slow down and take the time to ask more --- and better --- questions.
+At best, we'll arrive at better conclusions.
+At worst, we'll avoid a lot of rework later on.
+
+Aside from not speaking up enough, many professionals don't think about how different types of questions can lead to different outcomes.
+You should steer a conversation by asking the right kinds of questions, based on the problem you're trying to solve.
+In some cases, you'll want to expand your view of the problem, rather than keeping it narrowly focused.
+In others, you may want to challenge basic assumptions or affirm your understanding in order to feel more confident in your conclusions.
+
+Consider these four types of questions --- Clarifying, Adjoining, Funneling, and Elevating --- each aimed at achieving a different goal:
+
+*Clarifying questions* help us better understand what has been said.
+In many conversations, people speak past one another.
+Asking clarifying questions can help uncover the real intent behind what is said.
+These help us understand each other better and lead us toward relevant follow-up questions.
+"Can you tell me more?" and "Why do you say so?" both fall into this category.
+People often don't ask these questions, because they tend to make assumptions and complete any missing parts themselves.
+
+*Adjoining questions* are used to explore related aspects of the problem that are ignored in the conversation.
+Questions such as, "How would this concept apply in a different context?" or "What are the related uses of this technology?" fall into this category.
+For example, asking "How would these insights apply in Canada?" during a discussion on customer life-time value in the U.S. can open a useful discussion on behavioral differences between customers in the U.S. and Canada.
+Our laser-like focus on immediate tasks often inhibits our asking more of these exploratory questions, but taking time to ask them can help us gain a broader understanding of something.
+
+*Funneling questions* are used to dive deeper.
+We ask these to understand how an answer was derived, to challenge assumptions, and to understand the root causes of problems.
+Examples include: "How did you do the analysis?" and "Why did you not include this step?"
+Funneling can naturally follow the design of an organization and its offerings and drive it down to a certain brand of lawn furniture?"
+Most analytical teams -- especially those embedded in business operations -- do an excellent job of these questions.
+
+*Elevating questions* raise broader issues and highlight the biger picture.
+They help you zoom out.
+Being too immersed in an immediate problem makes it harder to see the overall context behind it.
+So you ask, "Takin a step back, what are the larger issues?" or "Are we even addressing the right question?"
+For example, a discussion on issues like margin decline and decreasing customer satisfaction could turn into a broader discussion of corporate strategy with an elevating question: "instead of talking about these issues separately, what are the larger trends we should be concerned about? How do they all tie together?"
+These questions take us to a higher plying field where we can better see connections between individual problems.
+
+In today's "always on" world, there's a rush to answer.
+Ubiquitous access to data and volatile business demands are accelerating this sense of urgency.
+But we must slow down and understand each other better in order to avoid poor decisions and succeed in this environment.
+Because asking questions requires a certain amount of vulnerability, corporate cultures must shift to promote this behavior.
+Leaders should encourage people to ask more questions, based on the goals they're trying to achieve, instead of having them rush to deliver answers.
+In order to make the right decisions, people need to start asking the questions that really matter.
+
+* /Get the Right Data Scientists Asking the "Wrong" Questions/ by Josh Sullivan (March 19, 2014)
+
+Wouldn't it be great to catch the next Bernie Madoff well before his pyramid scheme collapsed around us?
+
+That's not a rhetorical question.
+Advances in the field of data science have brought us to the point where it's reasonable to expect that an ongoing program of fraud could be identified in its early stages by people with access to the right data to cross-reference and query.
+And more than ever before, organizations and even ordinary citizens have access to massive data sets; they can draw on publicly available information in dispersed domains such as social media, open source projects, government statistics, and even weather patterns.
+
+But data by itself is meaningless.
+It's the skill of the data scientist that makes the difference.
+The best of them allow us to see the data in a set, to visualize relationships between data points, to ferret out insights, to turn expectations topsy-turvy --- and ultimately, to solve previously unsolvable questions for businesses.
+
+So, what makes an exceptional data scientist?
+When I first started practicing what we now call data science, I thought anyone attempting this job had to be classically trained in scientific method, statistics, math, or computer science -- which was how I got into the field.
+I now recognize that while those are important skills, that list is by no means exclusive.
+Moreover, it's possible to have all of these, and still not be able to pioneer what can be done with the numbers.
+
+Fundamentally, what sets a great data scientist apart is fierce curiosity -- it's the X factor.
+You can teach the math and the analytical tools, but not the tenacity to experiment and keep working to arrive at the best question -- which is virtually never the one you started out with.
+
+And even that insanely curious data scientist, if he or she insists on working alone, won't be able to produce the most valuable insights.
+Those come from high-performing teams combining individuals who are individually curious and naturally creative, but also collaborative in their approach to the art and science of experimentation.
+A great data science team is like a jazz quartet, where individuals are always riffing off of one another, and each takes the music to a new and unexpected place.
+In fact, my team actually includes a musician -- and also a forestry major -- as well as statisticans and computer scientists.
+The cognitive strengths that enable creative minds to see patterns in Bach fugues or in tree growth rates lend themselves elegantly to seeing patterns in, say, genetic code or disease markers for pharmaceutical effectiveness.
+
+Along with my changing sense of who are the "right people" for data science, I've also developed an appreciation for the value of the "wrong questions."
+The idea that a team should start off on the wrong foot might sound counterintuitive, but our data science team at Booz Allen spends a lot of time asking, and experiment with, "wrong" questions in order to get to the better questions that yield solutions for clients.
+
+This happened recently with a large financial system we studied.
+Our task was to find a way to detect fraud earlier, which would prevent much of it and save our client money.
+The fraud had manifested itself in hundreds of different ways, but there was so much of it and the fraudsters moved so quickly that we couldn't keep up with the patterns needed to track it.
+Working with ten years of data and 400 variables, we were trying to model what "bad" looks like in order to detect it and stop future perpetrators.
+
+So we changed the nature of the question we were asking.
+Instead of, "How do we model /bad/?" we asked "What if we modeled /good/?"
+And as we found out, modeling what a good person taking compliant actions looks like is a far more effective way to detect and prevent fraud.
+In practice, that meant going beyond individual transactions to focus on patterns of behavior by people who are, for example, very consistent in terms of where they live and what income they have.
+In light of "good" behavior patterns, interesting anomalies are easier to detect and take action on.
+And "bad" behavior and the inconsistencies associated with it (such as a Madoff-style Ponzi scheme) stand out strongly.
+Starting with this wrong question ultimately enabled us to identify more than $1 billion in massive, widespread fraud for our client.
+
+As companies look to data to solve increasingly complex challenges, they will become ever more reliant on their data scientists' curiosity, tenacity, and refusal to accept the status quo.
+Learning to ask -- and answer -- bigger questions using data science starts with an organization's openness to starting data experiments, repeatedly asking the "wrong" questions, and learning in fast iterations.
+Once you begin to ask /why/ your analytics are yielding certain results, you'll uncover the most relevant question: "How does this help me get to the problem I want to solve?"
+
+The true nature of data science consists of asking a series of questions -- and accepting analytic failures, which ultimately lead to the bigger questions, the better insights, and the more valuable decisions.
+So why not ask a question like: "How can we catch the next Bernie Madoff before his pyramid scheme collapses around us?"
+It might not turn out to be exactly the right question, but it's exactly the kind of challenge that gets a great data scientist thinking.
+
+* /Data-Driven Decisions Start with These 4 Questions/ by Eric Haller and Greg Satell (February 11, 2020)
+
+#+begin_quote
+*Summary.*
+To get useful answers from data, we can't just take it at face value.
+We need to learn how to ask thoughtful questions.
+In particular, we need to know how it was sourced, what models were used to analyze it, and what was left out.
+Most of all, we need to go beyond using data simply to optimize operations and leverage it to imagine new possibilities.
+Data that is of poor quality or used in the wrong context can be worse than no data at all.
+Keep in mind that sometimes, the data you don't have can affect your decision making as much as the data you do have.
+We also need to constantly be asking hard questions of our models.
+Are they suited to the purpose we're using them for?
+Are they taking the right factors into account?
+Does the output truly reflect what's going on in the real world?
+#+end_quote
+
+Data has become central to how we run our businesses today.
+In fact, the global market intelligence firm International Data Corporation (IDC) projects spending on data and analytics to reach $274.3 billion by 2022.
+However, much of that money is not being spent wisely.
+Gartner analyst Nick Heudecker has estimated that as may as 85% of big data projects fail.
+
+A big part of the problem is that numbers that show up on a computer screen take on a special air of authority.
+Once data are pulled in through massive databases and analyzed through complex analytics software, we rarely ask where it came from, how it's been modified, or whether it's fit for the purpose intended.
+
+The truth is that to get useful answers from data, we can't just take it at face value.
+We need to learn how to ask thoughtful questions.
+In particular, we need to know how it was sourced, what models were used to analyze it, and what was left out.
+Most of all, we need to go beyond using data simply to optimize operations and leverage it to imagine new possibilities.
+
+We can start by asking:
+
+** How was the data sourced?
+
+Data, it's been said, is the plural of anecdote.
+Real-world events, such as transactions, diagnostics, and other relevant information, are recorded and stored in massive server farms.
+Yet few bother to ask where the data came from, and unfortunately, the quality and care with which data is gathered can vary widely.
+In fact, a Gartner study recently found that firms lose an average of $15 million per year due to poor data quality.
+
+Often data is subject to human error, such as when poorly paid and unmotivated retail clerks perform inventory checks.
+However, even when the data collection process is automated, there are significant sources of error, such as intermittent power outages in cellphone towers or mistakes in the clearing process for financial transactions.
+
+Data that is of poor quality or used in the wrong context can be worse than no data at all.
+In fact, one study found that 65% of a retailer's inventory data was inaccurate.
+Another concern, which has become increasingly important since the EU passed stringent GDPR data standards is whether there was proper consent when the data was collected.
+
+So don't just assume the data you have is accurate and of good quality.
+You have to ask where it was sourced from and how it's been maintained.
+Increasingly, we need to audit our data transactions with as much care as we do our financial transactions.
+
+** How was it analyzed?
+
+Even if data is accurate and well maintained, the quality of analytic models can vary widely.
+Often models are pulled together from open-source platforms, such as GitHub, and repurposed for a particular task.
+Before long, everybody forgets where it came from or how it is evaluating a particular data set.
+
+Lapses like these are more common than you'd think and can cause serious damage.
+Consider the case of two prominent economists who published a working paper that warned that U.S. debt was approaching a critical level.
+Their work caused a political firestorm but, as it turned out, they have made a simple Excel error that caused them to overstate the effect that debt had on GDP.
+
+As models become more sophisticated and incorporate more sources, we're also increasingly seeing bigger problems with how models are trained.
+One of the most common errors is overfitting, which basically means that the more variables you use to create a model, the harder it gets to make it generally valid.
+In some cases, excess data can result in data leakage, in which training data gets mixed with testing data.
+
+These types of errors can plague even the most sophisticated firms.
+Amazon and Google, just to name two of the most prominent cases, have recently had highly publicized scandals related to model bias.
+As we do with data, we need to constantly be asking hard questions of our models.
+Are they suited tot he purpose we're using them for?
+Are they taking the right factors into account?
+Does the output truly reflect what's going on in the real world?
+
+** What doesn't the data tell us?
+
+Data models, just like humans, tend to base judgments on the information that is most available.
+Sometimes, the data you don't have can affect your decision making as much as the data you do have.
+We commonly associate this type of availability bias with human decisions, but often human designers pass it on to automated systems.
+
+For instance, in the financial industry, those who have extensive credit histories can access credit much easier than those who don't.
+The latter, often referred to as "thin-file" clients, can find it difficult to buy a car, rent an apartment, or get a credit card.
+(One of us, Greg, experienced this problem personally when he returned to the U.S. after 15 years overseas).
+
+Yet a thin file doesn't necessarily indicate a poor credit risk.
+Firms often end up turning away potentially profitable customers simply because they lack data on them.
+Experian recently began to address this problem with its Boost program, which allows consumers to raise their scores by giving them credit for things like regular telecom and utility payments.
+To date, millions have signed up.
+
+So it's important to ask hard questions about what your data model might be missing.
+If you are managing what you measure, you need to ensure that what you are measuringg reflects the real world, not just the data that's easiest to collect.
+
+** How can we use data to redisgn products and business models?
+
+Over the past decade, we've learned how data can help us run our businesses more efficiently.
+Using data intelligently allows us to automate processes, predict when our machines need maintenance, and serve our customers better.
+It's data that enables Amazon to offer same-day shipping.
+
+Data can also become an important part of the product itself.
+To take one famous example, Netflix has long used smart data analytics to create better programming for less money.
+This has given the company an important edge over rivals like Disney and WarnerMedia.
+
+Yet where it gets really exciting is when you can use data to completely re-imagine your business.
+At Experian, where Eric works, they've been able to leverage the cloud to shift from only delivering processed data in the form of credit reports to a service that offers its customers real-time access to more granular data that the reports are based on.
+That may seem like a subtle shift, but it's become one of the fastest-growing parts of Experian's business.
+
+It's been said that data is the new oil, but it's far more valuable than that.
+We need to start treating data as more than a passive asset class.
+If used wisely, it can offer a true competitive edge and take a business in completely new directions.
+To achieve that, however, you can't start merely looking for answers.
+You have to learn how to ask new questions.
+* /Good Data Analysis/ by Patrick Riley (June 2019)
+
+** Overview
+
+Deriving truth and insight from a pile of data is a powerful but error-prone job.
+The best data analysts and data-minded engineers develop a reputation for making credible pronouncements from data.
+But what are they doing that gives them credibility?
+I often hear adjectives like /careful/ and /methodical/, but what do the most careful and methodical analysts actually do?
+
+This is not a trivial question, especially given the type of data that we regularly gather at Google.
+Not only do we typically work with very large data sets, but those data sets are extremely rich.
+That is, each row of data typically has many, many attributes.
+When you combine this with the temporal sequences of events for a given user, there are an enormous number of ways of looking at the data.
+Contrast this with a typical academic psychology experiment where it's trivial for the researcher to look at every single data point.
+The problems posed by our large, high-dimensional data sets are very different from those encountered throughout most of the history of scientific work.
+
+This document summarizes the ideas and techniques that careful, methodical analysts use on large, high-dimensional data sets.
+Although this document focuses on data from logs and experimental analysis, many of these techniques are more widely applicable.
+
+The remainder of the document comprises three sections covering different aspects of data analysis:
+
+- Technical: Ideas and techniques on manipulating and examining your data.
+
+- Process: Recommendations on how you approach your data, what questions to ask, and what things to check.
+
+- Mindset: How to work with others and communicate insights.
+
+** Technical
+
+Let's look at some techniques for examining your data.
+
+*** Look at your distributions
+
+Most practitioners use summary metrics (for example, mean, median, standard deviation, and so on) to communicate about distributions.
+However, you should usually examine much richer distribution representations by generating histograms, cumulative distribution functions (CDFs), Quantile-Quantile (Q-Q) plots, and so on.
+These richer representations allow you to detect important features of the data, such as multimodal behavior or a significant class of outliers.
+
+*** Consider the outliers
+
+Examine outliers carefully because they can be canaries in the coal mine that indicate more fundamental problems with your analysis.
+It's fine to exclude outliers from your data or to lump them together into an "unusual" category, but you should make sure that you know why data ended up in that category.
+
+For example, looking at the queries with the lowest number of clicks may reveal clicks on elements that you are failing to count.
+Looking at queries with the highest number of clicks may reveal clicks you should not be counting.
+On the other hand, there may be some outliers you will never be able to explain, so you need to be careful in how much time you devote to this task.
+
+*** Consider noise
+
+Randomness exists and will fool us.
+Some people think, "Google has so much data; the noise goes away."
+This simply isn't true.
+Every number or summary of data that you produce should have an accompanying notion of your confidence in this estimate (through measures such as confidence intervals and /p-values/).
+
+*** Look at examples
+
+Anytime you are producing new analysis code, you need to look at examples from the underlying data and how your code is interpreting those examples.
+It's nearly impossible to produce working code of any complexity without performing this step.
+Your analysis is abstracting away many details from the underlying data to produce useful summaries.
+By looking at the full complexity of individual examples, you can gain confidence that your summarization is reasonable.
+
+How you sample these examples is important:
+
+- If you are classifying the underlying data, look at examples belonging to each class.
+
+- If it's a bigger class, look at more samples.
+
+- If you are computing a number (for example, page load time), make sure that you look at extreme examples (fastest and slowest 5% perhaps; you do know what your distribution looks like, right?) as well as points through the space of measurements.
+
+*** Slice your data
+
+Slicing means separating your data into subgroups and looking at metric values for each subgroup separately.
+We commonly slice along dimensions like browser, locale, domain, device type, and so on.
+If the underlying phenomenon is likely to work differently across subgroups, you must slice the data to confirm whether that is indeed the case.
+Even if you do not expect slicing to produce different results, looking at a few slices for internal consistency gives you greater confidence that you are measuring the right thing.
+In some cases, a particular slice may have bad data, a broken user interaction, or in some way be fundamentally different.
+
+Anytime you slice data to compare two groups (such as experiment vs. control, or even "time A" vs. "time B"), you need to be aware of mix shifts.
+A /mix shift/ is when the amount of data in the slices for each group is different.
+Simpson's paradox and other confusions can result.
+Generally, if the relative amount of data in a slice is the same across your two groups, you can safely make a comparison.
+
+*** Consider practical significance
+
+*** Check for consistency over time
+
+*** Acknowledge and count your filtering
+
+*** Ratios should have clear numerator and denominators
+
+** Process
+
+*** Separate Validation, Description, and Evaluation
+
+*** Confirm experiment and data collection setup
+
+*** Check for what shouldn't change
+
+*** Standard first, custom second
+
+*** Measure twice, or more
+
+*** Check for reproducibility
+
+*** Check for consistency with past measurements
+
+*** New metrics should be applied to old data/features first
+
+*** Make hypotheses and look for evidence
+
+*** Exploratory analysis benefits from end-to-end iteration
+
+*** Watch out for feedback
+
+** Mindset
+
+*** Data analysis starts with questions, not data or a technique
+
+*** Be both skeptic and champion
+
+*** Correlation != Causation
+
+*** Share with peers first, external consumers second
+
+*** Expect and accept ignorance and mistakes
+
+** Closing thoughts
+
+* /Optimizing Schools, Case Study: 3/ by Princeton Dialogues on AI and Ethics (2017-18)
+
+In 2012, Minerva High School, a public school in Pittsburgh, PA, with nearly 3,000 students and 180 classroom teachers, reached a depressing milestone.
+
+Mr. Vulcani met with school board members who suggested he put the vast and varied datasets the school had already collected about its students' behavior to use.
+
+Mr. Vulcani took these suggestions to heart and contracted a local data science company, Hephaestats, that promised insights into business processes through novel approaches using artificial intelligence.
+
+Mr. Vulcani and the school board agreed to provide Hephaestats with their existing databases, spanning several years, and gave them access to new data as it was collected.
+
+#+begin_example
+Discussion Question #1:
+
+How should decisions to adopt AI technologies be made?
+#+end_example
+
+Upon receipt of the student data, Hephaestats began with a broad policy of data analysis looking at a large number of predictors, ranging from various student demographics (e.g. race, ethnicity, gender, mobility, address, home life) to academic factors (e.g. grades, GPA, test results, history of disciplinary action, attendance) to teacher statistics (e.g. certifications, degrees, percent of students failing per class, years of teaching).
+
+#+begin_example
+Discussion Question #2:
+
+Did the school violate the privacy of its students by sharing their data with Hephaestats?
+#+end_example
+
+Using all this data, Hephaestats was able to identify eight key indicators that, in combination, predicted whether a student would drop out with 92 percent accuracy.
+
+Some teachers readily followed the recommendations made by Hephaestats, and there was an immediate boost in student engagement.
+
+By the end of the 2016-17 academic year, Minerva High School appeared to have made an impressive turnaround.
+
+#+begin_example
+Discussion Question #3:
+
+How might we define a successful outcome for Minerva High School?
+#+end_example
+
+#+begin_example
+Discussion Question #4:
+
+Graduation statistics did, indeed, improve after Hephaestats came on the scene.
+#+end_example
+
+The seeming success of Hephaestats' approach was overshadowed to some extent by concerns raised by students and their parents when they were finally told about Hephaestats' involvement.
+
+#+begin_example
+Ethical Objection #1: Privacy
+
+Critics claimed that the data provied by the school to train Hephaestats' algorithms amount to a fishing expedition, whereby vast amounts of data were provided without regard for its sensitivity.
+#+end_example
+
+#+begin_example
+Ethical Objection #2: Dehumanization of Students and Faculty
+
+Many students didn't like the idea of being treated as research subjects - even if it was for their own good.
+#+end_example
+
+#+begin_example
+Ethical Objection #3: Transparency
+
+In general, students, parents and teachers felt they had been forced to trust a process for evaluating risk and identifying solutions that they could not scrutinize themselves.
+#+end_example
+
+In addition to these ethical considerations, the school was criticized for over-enthusiasm about using artificial intelligence as a way to modernize education.
+
+One of the school's math teachers had a slightly different take, but similarly questioned the "wisdom" of AI systems like Hephaestats.
+
+#+begin_example
+Discussion Question #5:
+
+The rhetorical decision to call a technology "AI" imbues it with a certain mystique.
+#+end_example
+
+Representatives from Minerva High School and Hephaestats met with concerned students, parents and teachers to respond to their worries about the new system.
+
+For its part, Hephaestats resisted calls to release its proprietary algorithms.
+
+Hephaestats' representatives agreed with the math teacher that their system was largely based on statistical methods.
+
+** Reflection & Discussion Questions
+
+*** Privacy
+
+When designing a system of AI governance, some trade-offs are inevitable.
+
+- How should decisions about the appropriate balance between privacy and improving educational outcomes be made?
+
+- How does the issue of privacy change in the school setting?
+
+*** Autonomy
+
+Autonomy is an individual's ability to make decisions for herself and act upon them.
+
+- Should Hephaestats provide students with their risk profiles?
+
+- Hephaestats offered several options to address the student dropout rate at Minerva High School, but they mostly emphasized a "nudging" model.
+
+*** Consequentialism
+
+Some people argue that certain actions are impermissible regardless of what good outcomes they might bring about; others believe that the ends may justify the means.
+The Minerva administrators and their partner, Hephaestats, had both good ends and, they argued, appropriate means.
+But in complex AI systems, it may be quite challenging to even keep track of the various means in use.
+If all these means must be evaluated independently of the ends they're used to bring about, it may be very difficult to evaluate the permissibility of different actions.
+Furthermore, when AI is deployed to solve real world problems, each step of the implementation must be tracked as well.
+Considering the difficulty of assessing each of these steps in their entirety, school officials and Hephaestats preferred to focus on their noble end of reducing the student dropout rate.
+
+- Even if nearly everyone felt the dropout rate was a problem, not all stakeholders agreed with Hephaestats about the appropriateness of their means, namely, their use of student data without consent to produce un-auditable results.
+  These dissenters might argue that the way Hephaestats went about reducing the dropout rate undermined its ultimate success in achieving this "noble" end.
+  What would you say?
+
+- If we accept that all significant stakeholders ought to have a voice in determining the values they want their communities to promote, does it follow that they should be involved in decision-making about the means of achieving those ends as well?
+  How would schools go about including them?
+
+*** Rhetoric
+
+The use of language is very important, especially in framing and describing new, developing technologies.
+
+- Was Hephaestats right to call its technology "AI"?
+
+- What are the implications of calling something "AI"?
+
+* /Public Sector Data Analytics, Case Study: 6/ by Princeton Dialogues on AI and Ethics (2017-18)
+
+The once-prosperous midwestern American city of New Leviathan has faced major difficulties in recent decades, including deindustrialization, rising racial tensions and a growing budgetary deficit.
+By the turn of the century, many with the means to emigrate had relocated to wealthier cities in the region.
+This urban flight exacerbated the city's financial woes, culminating in significant cutbacks in spending on schools, law enforcement and other essential public services.
+Residents who stayed behind worried for the ongoing health of their community, as well as their own personal safety.
+
+As social conditions in New Leviathan deteriorated, the rate of violent crime began to rise.
+These troubling statistics and the atmosphere of fear they produced came to a head in 2014 when an officer from New Leviathan Police Department (NLPD) fatally shot an unarmed high school student on his way home from class.
+NLPD union representatives explained that the officer felt his life was in danger at the time of the shooting, but many members of the community disbelieved these claims.
+Even those who supported the officer's actions wondered quietly amongst themselves whether this tragedy---and recent others like it---could have been avoided if the NLPD had been given sufficient resources such that officers were not chronically overworked and exhausted.
+Discussions on both sides grew heated and resulted in violent protests that drew national attention to the dual problems of crime and policing in New Leviathan.
+Wishing to de-escalate the situation and preserve her job, the city mayor, Thalia Hobbes, believed she would need to initiate drastic change in the form of a new violence reduction program.
+
+Mayor Hobbes had lived in New Leviathan all her life and cared deeply for the city and its inhabitants.
+She wanted to help her hometown, but her options for handling the city's recent surge of violence and the mutual distrust it had fostered between citizens and police were constrained by a tight municipal budget and a tumultuous political climate.
+Furthermore, she was wary of getting too involved---at least publicly---in the particularly sensitive issue of law enforcement.
+There had been a long history of friction between the NLPD and the mayor's office, and tensions were then at an all-time high.
+She would need to be creative if she was going to find policy solutions that were both effective and efficient at addressing crime, and also didn't make it seem as if she was attacking law enforcement directly.
+
+A potential solution to Mayor Hobbes' predicament was presented to her at dinner one evening with a group of childhood friends.
+One of the guests, Charles Prince, had recently been made CEO of the prestigious management consulting firm, Wales Consulting Group, or WCG.
+While WCG mostly deals in corporate problem-solving, the firm also has a niche data analytics group in their Public-Sector Division dedicated to helping national, state and local institutions better serve their constituents by "leveraging tech solutions to improve existing services and deliver new ones."
+Mr. Prince thought that this group might be the answer to New Leviathan's crime problems.
+He proposed the idea of a collaboration to Mayor Hobbes, who was intrigued but hesitant, noting concerns about price and privacy.
+Undeterred, he prepared to pitch the project to representatives from WCG's Public-Sector Division the following Monday.
+
+WCG has strict protocols for determining whether or not it will take on a potential client, which meant that, despite Mr. Prince's authority and influence as CEO, he did not have the power to commit WCG to the New Leviathan project on his own.
+Instead, as per procedure, a meeting was convened with members of several relevant groups---including the Social Responsibility Team and the senior partneres of the Public-Sector Division---in which they jointly considered three sets of questions regarding the project proposal:
+
+1. What is the problem being addressed and can a data-driven approach be used to solve it?
+
+2. Can WCG achieve the proposed mission and what technological capabilities would be needed?
+
+3. Does WCG approve of the mission's goal?
+   Do the individuals working on the project approve?
+
+WCG has opted to walk away from several large contracts in the past because they did not pass this initial review.
+In the New Leviathan case, however, WCG was able to answer each question in the affirmative.
+The reviewers determined that Mayor Hobbes' crime reduction goal was in keeping with WCG's values and believed they would be able to successfully leverage an algorithmic, data-driven approach in order to achieve that end.
+Indeed, the group was so strongly in favor of the project that they agreed to offer the firm's services to the city on a pro bono basis, meaning that they would not receive payment for their work.
+This was a huge boon for Mayor Hobbes, as WCG's services would typically have been too expensive for New Leviathan's already-stretched municipal budget.
+
+#+begin_example
+Discussion Question #1:
+
+Agents from WCG believe they ask all the right questions during the initial review process for potential new collaborators.
+Do you agree?
+Are there other questions they should be asking at this preliminary stage?
+Who should be involved in the review proceedings?
+#+end_example
+
+#+begin_example
+Discussion Question #2:
+
+It is said there is no such thing as a free lunch.
+These days, consumers are often warned that if they aren't paying for a product, they are the product.
+WCG framed its proposal in philanthropic terms, but can you think of non-monetary ways in which they might expect to be compensated for their labor?
+Data?
+Experience?
+Access?
+Reputational advantages?
+On the other side, what would it mean for a city government to receive an AI service for free?
+What kind of obligations might be placed upon them?
+Can you anticipate any potential downsides to New Leviathan accepting the offer of "free" help?
+#+end_example
+
+The next step was for Mayor Hobbes to discuss expectations with WCG.
+WCG consultants explained to her that the firm was offering to send out a team---consisting of engineers, analysts and lawyers---which would develop software that could be used to trace an individual's ties to criminal offenders and analyze social media accounts in order to gauge the likelihood of that person being involved in a crime, either as a perpetrator or a victim.
+In technical parlance, the software would perform "social network analysis" (SNA) on the citizens of New Leviathan.
+WCG would not collect, sell or analyze any data themselves, nor would they store any of the data collected by New Leviathan city agencies and teach mayoral office staffers how to perform SNA using advanced AI and machine learning techniques.
+Rather than entirely ceding policy decisions to intelligent machines, they explained, the goal of this program would be to empower human analysts to work with the models.
+
+WCG's assurances of oversight and control eased the mayor's initial hesitations about allowing an outside contractor to handle sensitive information about the city's inhabitants.
+After having performed a cost-benefit analysis, Mayor Hobbes was convinced that the advantages of using a customized model to help determine how to efficiently allocate the city's limited resources---especially during these politcally and financially troubled times---outweighed any residual potential threats to individual privacy.
+Thus, using the unusually strong executive powers of New Leviathan's mayor's office, Mayor Hobbes unilaterally decided to retain the firm's services.
+She signed a contract, granting WCG access to New Leviathan's databases, which consist of millions of searchable public records, court filings, licenses, addresses, phone numbers and social media data.
+She also gave WCG permission to view the city's criminal databases for information about ballistics, gangs, probation and parole; jailhouse telephone records; the central case management system and the NLPD's field interview records.
+WCG would use this data to train its crime forecasting algorithms.
+Once the algorithms were ready, information from the same databases could be input in to identify New Leviathan residents at risk of being involved in a crime.
+
+#+begin_example
+Discussion Question #3:
+
+Mayor Hobbes made the decision to accept WCG's proposal without having consulted the citizenry or other officials through democratic processes.
+In this case, the decision to take independent executive action was legal, but was it justified?
+If not, how should she have gone about approaching the decision?
+Who are the relevant stakeholders that might have been consulted?
+#+end_example
+
+#+begin_example
+Discussion Question #4:
+
+A data-driven approach to crime reduction necessarily requires data.
+To the extent that such approaches are effective at increasing overall safety, some people might be willing to grant outside contractors access to their personal information.
+Some, however, may prefer not to have their data shared at all.
+In the New Leviathan case, how should individual privacy interests be weighed against WCG and Mayor Hobbes' expectations that use of individual data would decrease crime and increase safety for all?
+Are there data collection, use and storage practices that WCG and Mayor Hobbes could employ to reduce potential privacy concerns?
+#+end_example
+
+Mayor Hobbes initially chose not to publicize the agreement she had entered into with WCG, but both parties expected the program to eventually be made public (ideally, after it had proven a success).
+Thus, it was important that their efforts were framed in the right light.
+Critically, neither Mayor Hobbes nor WCG wanted their project to be billed as "predictive policing."
+Predictive policing, or the use of algorithmic models to assess the likelihood of individuals or places being involved in a crime in order to allocate police resources efficiently, had become an extremely controversial practice.
+Several American law enforcement agencies had recently experimented with these programs only to be attacked for civil liberties violations, racist/classist practices and allegations of ineffectiveness.
+In order to distance New Leviathan from these public relations disasters, WCG designed their system to be distinct from standard predictive policing in two ways.
+First, it would focus on identifying potential victims of crimes, rather than perpetrators.
+Second, the policy recommendations WCG suggested would be limited to mobilizing the city's social support services in aid of at-risk citizens (e.g. increasing welfare checks).
+The police wouldn't be involved at all.
+
+Initially, the program showed some success in crime reduction.
+Two years after the collaboration with WCG began, statistics revealed a modest decrease in gun violence and murders in New Leviathan.
+This downward trend didn't last long, however, and crime stats began to slowly creep back up.
+Some staffers suggested that this might be due to the mayor's conservative use policies regarding the AI system.
+With an election looming, Mayor Hobbes was convinced to take a more aggressive approach.
+In order to push crime reduction along more quickly, the city would begin targeting all those that WCG's algorithm deeed likely to be involved in a crime - now including potential perpetrators.
+And rather than focusing exclusively on community outreach and social services, as the program had originally been designed, she opted to involve law enforcement as well.
+Mayor Hobbes proposed that a list of all individuals determined to be at high risk of committing a crime be assembled and made available to the NLPD.
+The NLPD could summon potential offenders from this list to police stations for interrogation.
+Officers could draw from the familiar toolbox of carrots and sticks in order to discourage these individuals from committing future crimes.
+
+#+begin_example
+Discussion Question #5:
+
+What do you think of Mayor Hobbes and WCG's initial efforts to distance themselves from the term "predictive policing"?
+Did the original program differ meaningfully from predictive policing programs in the past?
+What about the new plan?
+#+end_example
+
+Within months of instituting these changes, news about the program leaked.
+An online investigative reporter, J. Wallis, published a scathing exposé on Mayor Hobbes and WCG's handling of data about New Leviathan and its citizens, in which she did not shy away from calling the program "predictive policing."
+Wallis was critical of the AI system overall but reserved particular venom for the secrecy surrounding its origins.
+Outside of the mayor's office, she couldn't find a single public actor who admitted prior knowledge.
+The mayor's office did not deny that they had kept their dealings with WCG quiet, and many locals and government officials were outraged at having been kept in the dark.
+Wallis quoted a popular city councilman, John Bramhall, Jr., saying, "I'm all for adapting to the times. I would gladly embrace a responsible data-driven approach to crime reduction if that's what it takes to get our city back on track, but I'm deeply uncomfortable about the level of secrecy used in this instance. City officials have a right to know when policies are being changed. The *people* have a right to know how their government is making decisions about them!"
+
+Many New Leviathan citizens and their allies agreed with Councilman Bramhall's sentiments, adding several ethical objections of their own.
+None of these voices were louder or more powerful than those, which came from a group of WCG employees that had rallied to the side of city residents.
+Ranging from engineers and product developers to lawyers and consultants, this group claimed to be shocked at the company's willingness to bypass consent in furtherance of a program that could inflict meaningful harms on the people of New Leviathan and beyond.
+Many threatened to resign over the scandal, and together, they released a public letter demanding WCG immediately cease its work with New Leviathan, at least until the ethical issues at stake could be fully considered.
+
+#+begin_example
+Ethical Objection #1: Government Secrecy and Individual Privacy
+
+Both residents and city officials were angry that the mayor's office hadn't informed or consulted them about its actions.
+Because the WCG deal wasn't public knowledge, the people of New Leviathan had not been given the opportunity to ask questions about the resulting algorithm's basic functions, risk of bias and overall appropriateness.
+Many believed Mayor Hobbes' choice to insulate the program from public debate undermined the notion of popular sovereignty, or the idea that governments are responsible to the people from whom they derive their authority to act.
+Some citizens also pointed out that this secrecy was hypocritical, given how much of their own personal information had been shared with WCG without their explicit consent.
+Privacy was beginning to look like a luxury reserved only for the political elite.
+#+end_example
+
+#+begin_example
+Ethical Objection #2: Inequality, Injustice and Ineffectiveness
+
+Mayor Hobbes and WCG maintained that they were not engaged in predictive policing, but the public wasn't so sure.
+Due to the lack of information about the New Leviathan program, it was difficult for residents to see how it may have differed from those predictive policing programs that had recently been in the news.
+And reserch into those programs had produced a generally dim view of them.
+Some studies found that predictive policing may have a disparate negative impact on poor and minority communities, while others called into question their efficacy.
+To the extent that the New Leviathan program might disproportionately target poor and minority residents, many citizens thought it ought to be discontinued.
+Such practices were not only unfair and unjust in an unequal society, they argued, but were also likely to exacerbate the already high social tensions in New Leviathan.
+Even those who were skeptical of the claim that the program was inegalitarian in practice argued that the risk of harming poor and minority residents would be unjustified if the program failed to achieve its stated aim of making the city a safer place.
+So far, evidence of the program's success was weak at best.
+#+end_example
+
+#+begin_example
+Ethical Objection #3: Civil Liberties and Autonomy Infringements
+
+The ACLU came to New Leviathan to join the fight.
+Lawyers from the organization reminded New Leviathan's political elite that, in the United States, citizens must be treated as innocent until proven guilty.
+They argued that the use of algorithms to determine who is likely to be involved in a crime---especially when accompanied by policies that target those individuals for special treatment---undermines this essential tenet of the American Legal System, as well as the underlying notions of institutional fallibility and equal respect for all.
+Many of the locals agreed, saying that the algorithms designed and implemented by WCG and Mayor Hobbes, respectively, had no place in the American criminal justice system, which must protect civil rights and civil liberties.
+To this constitutional claim, some more philosophically-minded critics added the argument that to treat individuals according to their statistical probabilities erodes their status as autonomous agents with free will.
+In other words, it treats human life as deterministic.
+Many protestors, including Mayor Hobbes' college-age daughter, were seen wearing t-shirts emblazoned with the words, "I am not my probabilities!"
+#+end_example
+
+Mayor Hobbes responded to this criticism by insisting that the AI system had been necessary to secure residents' safety in the wake of the 2014 protests and pointed to the post-implementation dip in violent crime as proof of its success.
+She defended her decision not to disclose information about the WCG collaboration by citing the tense political climate of that time.
+Had she been forced to "play politics" under such conditions, she argued, she would have been unable to adequately serve the public interest.
+Furthermore, in an unguarded interview, Mayor Hobbes questioned the very value of public disclosure.
+She doubted that many of her constituents would have understood the complex AI system, even had she shared it with them.
+Thus, Mayor Hobbes believed her best option to give the program a fair chance was to act independently and quietly.
+And, as she pointed out, New Leviathan's political institutions were on her side.
+New Leviathan had long ago embraced the model of a powerful executive.
+People may not have liked the solutions she adopted or the secrecy with which she did so, but she acted within the legal bounds of her position and in furtherance of what she believed to be the ultimate good of the people she served.
+
+As to the claim that the program developed with WCG might have had an unequal impact on different members of the community, Mayor Hobbes pointed out that this was an empirical question, and therefore one that could not be answered until the city had done a proper accounting of the effects of WCG's proposed interventions.
+That could take years.
+However, she strongly refuted any and all attempts to categorize the project as predictive policing.
+Even after the original program had been revised to target potential criminal offenders (not just likely victims) and refer them to law enforcement (not just social services), she continued to maintain that her office was merely engaging in data analytics, which were necessary for the efficient resource allocation demanded by shrinking budgets and rising crime stats.
+
+WCG was also compelled to defend its participation in the New Leviathan project.
+The Wallis exposé revealed that WCG had been using its experience in New Leviathan to market its crime reduction capacities to other cities.
+Whether the New Leviathan pilot program had been successful or not, the algorithms trained on that city's data were growing more accurate every day and were now quite valuable.
+It was discovered that a certain South American nation had already signed a contract with WCG using the technology developed with New Leviathan as part of its anti-terrorism program.
+To the extent that WCG financially benefitted from the collaboration with Mayor Hobbes, many residents of the New Leviathan felt the firm owed them explanations and justifications for how their data had been used.
+
+Representatives from WCG responded to these disclosure requests by reiterating Mayor Hobbes' claim that they were not engaged in predictive policing.
+And echoing Mayor Hobbes's comments about the complexity of the system's design, they argued that they were unable to explain to citizens exactly how their data had been used.
+However, these WCG representatives insisted that everything possible had been done to keep the training data anonymous in order to protect individual privacy.
+
+Responding to members of its employee "uprising," WCG's public relations team defended the ethicality of the New Leviathan collaboration.
+As they reminded the aggrieved employees, beyond the preliminary ethics review, WCG requires project teams to assess whether or not the relationship should continue.
+At the end of each year, or when a major change to the program has occurred, members of the team must meet to discuss four questions:
+
+1. Has the broader context changed, such that WCG's services are no longer needed or appropriate?
+
+2. Have the nature of the institutions evolved such that WCG no longer wishes to support them (e.g. a change in political leadership, widening of the original mandate)?
+
+3. Has there been any unacceptable or "repugnant" use of their products?
+
+4. Does the team still support the project?
+
+This procedure builds WCG's confidence that its collaboration are and remain ethically sound.
+The New Leviathan project passed not only the initial ethics review, but all subsequent reviews as well.
+And in fact, WCG team members had just recently performed an ethics audit of the New Leviathan project following Mayor Hobbes' decision to expand the program to target potential offenders and involve law enforcement.
+While the team had some hesitations about the way their AI products were now being used, the review ultimately concluded that the project remained ethically sound and that they wished to support it.
+
+Representatives from WCG admitted that the firm rarely walks away from a project after one of these interim reviews.
+However, they argued that that is only because the initial weeding out process is so rigorous that it almost always catches potential ethical problems before entering into a contract.
+WCG wished to add that the firm remains proud of its ethics protocols and plans to do even more going forward.
+Members of their Social Responsibility Team recently developed a framework for an internal ethics process that is transparent and simple enough so that all members of the organization are able to use it.
+In the future, they hope to institute a formal ethics educational program within the company -- ideally one that could be scaled and exported to other consultancies addressing similar political and ethical dilemmas.
+
+#+begin_example
+Discussion Question #6:
+
+Should the New Leviathan collaboration have passed WCG's interim ethics reviews?
+How did the most recent review differ from the first?
+What would need to be included in the firm's ethics protocols to make a sound ethical review at all stages?
+More broadly, can a corporation's internal ethics review provide sufficient evidence that a project is "ethically sound"?
+What other procedures might be needed to make such a determination?
+#+end_example
+
+#+begin_example
+Discussion Question #7:
+
+WCG plans to teach ethics to its employees.
+How can one effectively operationalize values in a company like WCG and the IT systems it produces?
+Why is this necessary?
+Is it necessary?
+#+end_example
+
+** Reflection & Discussion Questions
+
+*** Democracy
+
+Like the broader United States in which it is situated, New Leviathan has a democratic system of governance with checks and balances.
+However, the office of mayor in New Leviathan has been vested with an unusual degree of authority to make decisions apart from her constituents and the other branches of government.
+Some support this distribution of executive power on the belief that a strong central authority is the best way to protect the people and keep them safe.
+Others are more skeptical.
+While a strong executive may make decisions in the best interest of the people, the people's role in determining what those interests are (i.e., the ends they wish to pursue) and the means for achieving them is diminished under an authoritarian leadership model.
+We often see this debate paralleled in the tech world, in which developers and proprietors of AI systems must determine the appropriate balance between top-down and bottom-up decision-making procedures.
+
+- In teaming up with New Leviathan, WCG ostensibly aimed to make the city a better place.
+  Do companies that claim to be developing AI products to improve public welfare have a responsibility to consult with the people they purport to serve - either by securing their approval or actively endeavoring to better understand the community in order to improve their products?
+
+- Do democratic governments have special responsibilities to involve the people, as well as existing government officials and processes, in decision-making surrounding the use of AI that go beyond those of private corporations?
+  (See, for example, calls for the use of privacy commissions to assess AI.)
+  Do democratic governments have special responsibilities to be transparent about their use of AI that go beyond their obligations to inform citizens of their non-AI practices?
+
+- American democratic institutions are designed to safeguard civil rights and liberties against threats from both powerful leaders and populist impulses.
+  Some critics of the New Leviathan program argued that, by granting WCG access to the city's databases, Mayor Hobbes violated their right to privacy and made them vulnerable to corporate influence.
+  Do you agree?
+  If so, can you think of examples where the government sharing such information might be appropriate?
+  Would the tradeoffs be any different if, for example, WCG's algorithms were used to target potential terrorists who are not US citizens, and therefore, not entitled to the same legal protections?
+  What about the South American nation that recently contracted with WCG to perform thet same services as in New Leviathan.
+
+*** Secrecy
+
+The criticism Mayor Hobbes faced often had less to do with the fact that she acted alone, and more to do with the secrecy surrounding her actions.
+Given the unique position of law enforcement to impact the lives of civilians, some could argue that the city was morally and socially obligated to reveal the terms of the WCG contract and the scope of its mission (if not also the system's technical details, such as the algorithm itself).
+Such would be the requirements for procedural justice.
+But while openness may sound like it's always a good idea, there are reasons for secrecy in the policy world.
+For example, Mayor Hobbes explained that she did not wish to divulge information about the new AI system lest residents discover how to subvert WCG's algorithms and skew results.
+
+- What do you make of the claim that AI systems must be opaque to function effectively?
+  Can you think of other legitimate reasons why secrecy might be appropriate regarding New Leviathan's collaboration with WCG?
+  If you believe secrecy is never appropriate, defend that view.
+
+- Some New Leviathan protestors claimed that government expectations of secrecy are hypocritical in matters where the state shares private data about its citizens without their consent and which may be used against them.
+  How would you engage with this view?
+  Are secrecy and privacy the same thing?
+  How might the concepts differ?
+
+*** Inequality
+
+One criticism against predictive policing (and programs like it) is that it disproportionately impacts poor and minority neighborhoods.
+In part, this is a consequence of skewed data collection.
+Police departments tend to have good data about the communities they already patrol, but they may have little information about communities with a lighter police presence.
+For a variety of reasons, the former neighborhoods tend to be poor and minority, while the latter tend to be affluent and white.
+When this unbalanced data is input into an algorithm for assessing risk, the results may encourage the allocation of more law enforcement resources to some neighborhoods over others.
+This can lead to increased arrests in those neighborhoods, as well as hostility from individuals who feel they're being unfairly targeted.
+
+- How might a crime prediction algorithm be designed to minimize inegalitarian outputs based on biased data?
+  If tech solutions are unavilable or insufficient, can you imagine public policy solutions that could mitigate against unjust treatment of poor and minority neighborhoods?
+
+- If algorithms predict that people in poor and minority communities are more likely to be involved in a crime, and if targeting interventions at members of these communities is proven effective at crime overall, would the state be justified in doing so?
+  What countervailing values might you consider?
+  For example, how would this approach fare against traditional notions of justice, which insist that punishments fit the crime and not an individual's potential for crime?
+
+*** Fallibility
+
+Mayor Hobbes was impressed by the high predictive accuracy of WCG's algorithm, which promised to save the city money by enabling her to focus crime reduction efforts on high-risk individuals.
+However, it is important to keep in mind the limits of certainty in even highly advanced AI systems.
+As with traditional statistics, the probabilities produced by algorithmic models are just that -- probable outcomes.
+They are not certs.
+And while they may tell us much about populations, they reveal less about individuals.
+Even a 99 percent chance that someone will be involved in a crime leaves a one percent chance that he will not, as well as some margin of error.
+And this is assuming the model itself is flawless and accounts for all variables.
+This is rarely (if ever) the case.
+However, the uncertainty inherent in predictive models is not always clear to clients, who may accept algorithmic outputs as truths.
+
+- Why is it important that people using AI systems understand their fallibility?
+  What are some things AI developers and proprietors could do to make the limitations of their models clearer?
+
+- The supposed infallibility of scoring algorithms may encourage people to substitute their results for qualitative judgment and human responsibility.
+  What are the implications of deferring to an algorithm's outputs, especially in areas as important as law enforcement?
+  In answering this question, think in both the long- and short-term.
+
+*** Determinism
+
+Underlying the "I am not my probabilies!" movement was the belief that humans are autonomous agents with free will.
+According to this view, people are not destined to be or do any one thing.
+While risk assessment algorithms do not necessarily contradict the idea of free will, in practice, they may undermine autonomy.
+Labeling an individual "at risk" encourages others to think of her in those terms, increasing the likelihood that she will live up to the label she's been given.
+In the case of New Leviathan, the city may not have prosecuted citizens deemed likely to commit a crime on basis of that prediction alone, but it did treat them differently (i.e., sending in social services, calling them in to police stations).
+These interventions may then have influenced the way that such individuals behaved going forward -- perhaps nudging them towards riskier behaviors.
+
+- In cases where interventions based on algorithmic predictions still result in negative outcomes, what, if any, moral responsibility do the New Leviathan program and the various relevant actors (Mayor Hobbes, NLPD, WCG) bear for those outcomes?
+
+- Humans engage in evaluative judgments all the time, naming some people "bad seeds" and steering clear.
+  Is AI labeling meaningfully different, or is this just more of the same?

@@ -1,0 +1,111 @@
+#+TITLE: Ethics Case Study
+
+* Assignment
+
+** Assignment Objective
+
+The objectives of this assignment are:
+
+- to develop a refined awareness of the ethical consequences of data science projects
+
+- to engage in a healthy dialogue on the complex ethical issues surrounding data science projects
+
+- to articulate a balanced and well-grounded (in the understanding of technological and social aspects) elaboration of ethical issues
+
+** Assignment Description
+
+*** Part A: Group Discussion (In-class)
+
+As a part of this assignment, teams of 3 students will study and discuss one of the following case studies:
+
+- https://aiethics.princeton.edu/wp-content/uploads/sites/587/2018/10/Princeton-AI-Ethics-Case-Study-1.pdfLinks
+
+- https://aiethics.princeton.edu/wp-content/uploads/sites/587/2018/10/Princeton-AI-Ethics-Case-Study-3.pdf
+
+At the end of the discussion, both teams will make a short oral presentation (no slides required).
+Every team member will explain at least one ethical issue that was manifest in the case under study and will summarize the group discussion that took place on that issue.
+
+*** Part B: Case Study Analysis Report (Homework)
+
+In this part of the assignment, each student will individually write a report on one of the 6 Case Studies from the [[https://aiethics.princeton.edu/case-studies/case-study-pdfs/][Princeton Dialogue on AI and Ethics]].
+
+- The report should describe */at least 3/* issues raised in the "Reflection & Discussion Questions" provided at the end of the case study, and address the corresponding questions.
+
+- Despite considering multiple issues involved in the case study, the report should read as a coherent whole.
+
+- The report should present a well-rounded view of the raised issues.
+  All expressed opinions should be backed by substantial arguments.
+
+** Submission Format
+
+- The Canvas submission should be a link to an _editable google doc_ containing the report.
+
+- *Expected length*: 700-1000 words (this is only a rough guideline)
+
+* Part A: Group Discussion (In-class)
+
+** Privacy
+
+*** Question 1 Response
+
+All students and parents should be involved in the making decisions about the appropriate balance between privacy and improving educational outcomes.
+They are the only people who are interested in both of these, since the data being collected is personal to them and can be used to identify them.
+The school administration and Hephaestats are primarily interested in improving educational outcomes and do not have any direct concern regarding privacy.
+
+*** Question 2 Response
+
+The issue of privacy is more sensitive in the school setting given that students are less knowledgeable about the implications of the lack of privacy.
+In a private school or an office setting, the balance between privacy and social welfare is decided by the executives of the respective organizations.
+
+** Autonomy
+
+*** Question 1 Response
+
+Yes.
+Yes.
+Yes.
+Maybe, although it would require educating the students on system design which would be quite a difficult task.
+
+*** Question 2 Response
+
+Nudges should provide a reason why they are nudging and what the objective is.
+So yes, they should be more explicit.
+Not being explicit is being vague and unclear.
+It's best for the students to identify the root cause of their problem, rather than trusting a system that simply tells them what they should do.
+Otherwise they will never learn the underlying problem or perhaps the underlying problem identified by the AI is too general and doesn't apply to the student.
+
+** Consequentialism
+
+Q1: Even if nearly everyone felt the school dropout rate was a problem, not all stakeholders agreed with Hephaestats about the appropriateness of their means, namely, their use of student data without consent to produce un-auditable results.
+These dissenters might argue that the way Hephaestats went about reducing the dropout rate undermined its ultimate success in achieving this "noble" end.
+What would you say?
+
+Q2: If we accept that all significant stakeholders ought to have a voice in determining the values they want their communities to promote, does it follow that they should be involved in decision-making about the means of achieving those ends as well?
+How would schools go about including them?
+
+*** Question 1 Response
+
+Hephaestats should have first determined whether using AI was necessary for the goal of reducing student dropout rate.
+It's possible that the existence of the AI system created a placebo effect such that the predictions made by the AI were not causal, but the fact that there was some visible effort in the improvement of the school created a positive impression on the school's students and teachers.
+In this case, the placebo could be replaced with a less intrusive program such as investing in more resources for teachers and students, e.g., investing in recreational activities, investing in better accommodation of teachers and students struggling physically/mentally, etc.
+
+*** Question 2 Response
+
+Yes, all stakeholders should be involved in the decision-making about the means of achieving the ends.
+To go about this, schools should at least allow all stakeholders to provide feedback and for all feedback to be seriously considered, with an explanation of why or why not it will be taken into consideration and what steps will be taken to incorporate the feedback.
+Further, all stakeholders should be allowed to inspect every aspect of the means.
+In this case the means is AI, so all stakeholders should be allowed to inspect any and all source code involved in the system as well as have access to any documentation associated with the system including design docs, business docs, etc.
+
+** Rhetoric
+
+*** Question 1 Response
+
+It's possible that "AI" was not the appropriate term.
+Instead, the program should be recognized for its purpose, rather than its means.
+
+*** Question 2 Response
+
+The implications of calling something "AI" creates a feeling of mystery and uncertainty.
+It removes the human factor completely from the equation and feels unfair.
+
+* Part B: Case Study Analysis Report
